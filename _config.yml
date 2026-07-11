@@ -1,0 +1,7 @@
+# NoMore時間泥棒（Tarrywell）サポートサイトのJekyll設定
+# dartstracker-site と同じ構成（jekyll-theme-minimal / 日本語 / URLは拡張子なし）
+title: NoMore時間泥棒
+description: SNSに奪われていた時間を、意識的な選択に取り戻すiOSアプリ
+theme: jekyll-theme-minimal
+lang: ja
+permalink: /:basename
